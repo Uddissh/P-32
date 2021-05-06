@@ -2,8 +2,8 @@ class Box {
     constructor(x,y,width,height) {
 
         var options = {
-            restitution:0.4,
-            friction:0.0
+            restitution:0.0,
+            friction:0.5
         }
 
         this.pix = Bodies.rectangle(x,y,width,height,options);

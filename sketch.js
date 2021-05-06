@@ -92,27 +92,49 @@ function setup() {
     image(img,polygon.position.x, polygon.position.y, 20 + 20, 20 + 20);
     
     //polygon.display();
+    fill("pink");
     Block1.display();
+	 fill("skyblue");
     Block2.display();
+	 fill("orange");
     Block3.display();
+	 fill("red")
     Block4.display();
+	 fill("orange")
     Block5.display();
+	 fill("purple")
     Block6.display();
+	 fill("cyan")
     Block7.display();
+	 fill("yellow")
     Block8.display();
+	 fill("blue")
     Block9.display();
+	 fill("green")
     Block10.display();
+	 fill("darkblue")
     Block11.display();
+	 fill("lightgreen")
     Block12.display();
+	 fill("darkgreen")
     Block13.display();
+	 fill("brown")
     Block14.display();
+	 fill("black")
     Block15.display();
+	 fill("gray")
     Block16.display();
+	 fill("lime")
     Block17.display();
+	 fill("olive")
     Block18.display();
+	 fill("silver")
     Block19.display();
+	 fill("magenta")
     Block20.display();
+	 fill("lightpink")
     Block21.display();
+	 fill("darkpink");
     Block22.display();
     Ground1.display();
     Ground2.display();

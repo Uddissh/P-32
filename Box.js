@@ -16,7 +16,7 @@ class Box {
 
     display(){
 
-        if (this.pix.speed < 5) {
+        if (this.pix.speed < 11) {
             //super.display(); 
             var angle  = this.pix.angle;
             push()

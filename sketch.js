@@ -152,6 +152,7 @@ function setup() {
 
   function keyPressed(){
      if(keyCode === 32){ 
+      Matter.Body.setPosition(this.polygon, {x:100, y:200});
        sling.attach(this.polygon); 
       } 
   }
